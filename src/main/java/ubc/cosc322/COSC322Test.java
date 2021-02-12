@@ -17,7 +17,7 @@ import ygraph.ai.smartfox.games.amazons.AmazonsGameMessage;
  *
  */
 
-
+//changes, changes, changes, changes
 public class COSC322Test extends GamePlayer{
 
     private GameClient gameClient = this.getGameClient(); 
